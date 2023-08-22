@@ -1,0 +1,9 @@
+﻿toc:
+  - name: iTin.Core.Interop.Windows.Devices.Graphics.Font
+    link: iTin.Core.Interop.Windows.Devices.Graphics.Font
+    subfolderitems:
+    - name: NativeMethods
+      link: iTin.Core.Interop.Windows.Development.Graphics.Legacy.Gdi.Font/NativeMethods
+      subfolderitems:
+      - name: AddFontResource
+        link: iTin.Core.Interop.Windows.Development.Graphics.Legacy.Gdi.Font/NativeMethods/AddFontResource
